@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "adventure_mod_:items/epee_geant"
+  }
+}

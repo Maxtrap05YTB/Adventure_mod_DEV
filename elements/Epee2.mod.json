@@ -1,0 +1,28 @@
+{
+  "_fv": 13,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "mastersword",
+    "customModelName": "Normal",
+    "name": "épée_du_héro",
+    "specialInfo": [
+      "C'ette épée est trèees puisante elle permet de tuer les boss les plus dur!"
+    ],
+    "creativeTab": {
+      "value": "COMBAT"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 1,
+    "efficiency": 1.0,
+    "attackSpeed": 2.0,
+    "enchantability": 0,
+    "damageVsEntity": 6.5,
+    "usageCount": 0,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [],
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

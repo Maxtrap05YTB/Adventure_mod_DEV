@@ -1,0 +1,28 @@
+{
+  "_fv": 13,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "epee_nul",
+    "customModelName": "Normal",
+    "name": "Epeedudebut",
+    "specialInfo": [
+      "C'ette épée permet de tuer les monstre/boss du mod"
+    ],
+    "creativeTab": {
+      "value": "TOOLS"
+    },
+    "toolType": "Pickaxe",
+    "harvestLevel": 1,
+    "efficiency": 1.0,
+    "attackSpeed": 3.5,
+    "enchantability": 0,
+    "damageVsEntity": 3.5,
+    "usageCount": 0,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [],
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

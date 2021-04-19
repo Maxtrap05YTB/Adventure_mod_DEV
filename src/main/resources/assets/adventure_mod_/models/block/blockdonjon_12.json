@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "adventure_mod_:blocks/donjonblockterre1centre",
+    "up": "adventure_mod_:blocks/donjonblockterre1centre",
+    "north": "adventure_mod_:blocks/donjonblockterre1centre",
+    "east": "adventure_mod_:blocks/donjonblockterre1centre",
+    "south": "adventure_mod_:blocks/donjonblockterre1centre",
+    "west": "adventure_mod_:blocks/donjonblockterre1centre",
+    "particle": "adventure_mod_:blocks/donjonblockterre1centre"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "adventure_mod_:blocks/donjonsolterre1",
+    "top": "adventure_mod_:blocks/donjonsolterre1",
+    "side": "adventure_mod_:blocks/donjonsolterre1"
+  }
+}

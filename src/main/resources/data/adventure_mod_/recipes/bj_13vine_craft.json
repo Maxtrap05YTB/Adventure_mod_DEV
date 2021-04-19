@@ -1,0 +1,19 @@
+{
+  "group": "adventure_mod_",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01"
+  ],
+  "key": {
+    "0": {
+      "item": "adventure_mod_:blockdonjon_13"
+    },
+    "1": {
+      "item": "minecraft:vine"
+    }
+  },
+  "result": {
+    "item": "adventure_mod_:blockdonjon_13vine",
+    "count": 1
+  }
+}

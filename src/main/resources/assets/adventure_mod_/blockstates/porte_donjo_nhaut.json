@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "adventure_mod_:block/porte_donjo_nhaut"
+    },
+    "facing=east": {
+      "model": "adventure_mod_:block/porte_donjo_nhaut",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "adventure_mod_:block/porte_donjo_nhaut",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "adventure_mod_:block/porte_donjo_nhaut",
+      "y": 270
+    }
+  }
+}

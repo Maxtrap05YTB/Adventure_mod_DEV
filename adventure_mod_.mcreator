@@ -1,0 +1,442 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "D1",
+      "type": "achievement",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "d_1"
+    },
+    {
+      "name": "Blockdonjon1",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "blockdonjon_1"
+    },
+    {
+      "name": "Blockdonjon12",
+      "type": "block",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "blockdonjon_12"
+    },
+    {
+      "name": "Blockdonjon13",
+      "type": "block",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "blockdonjon_13"
+    },
+    {
+      "name": "Blockdonjon13vine",
+      "type": "block",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "blockdonjon_13vine"
+    },
+    {
+      "name": "Soldonjon1",
+      "type": "block",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "soldonjon_1"
+    },
+    {
+      "name": "BJ13vineCraft",
+      "type": "recipe",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bj_13vine_craft"
+    },
+    {
+      "name": "Escalierdonjon1",
+      "type": "block",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "escalierdonjon_1"
+    },
+    {
+      "name": "Clef",
+      "type": "item",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "clef"
+    },
+    {
+      "name": "Clefdebossdudonjondeterre",
+      "type": "item",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "clefdebossdudonjondeterre"
+    },
+    {
+      "name": "PorteDONJONbasLorsDunClicDroitSurLeBloc",
+      "type": "procedure",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "porte_donjo_nbas_lors_dun_clic_droit_sur_le_bloc",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "PorteDONJONbas",
+      "type": "block",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "porte_donjo_nbas"
+    },
+    {
+      "name": "PorteDONJONhaut",
+      "type": "block",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "porte_donjo_nhaut"
+    },
+    {
+      "name": "Pfefr2",
+      "type": "procedure",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pfefr_2",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Pillierdonjonterre",
+      "type": "block",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pillierdonjonterre"
+    },
+    {
+      "name": "Clefdeterre",
+      "type": "item",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "clefdeterre"
+    },
+    {
+      "name": "Serruredelaportedudonjondeterre",
+      "type": "block",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "serruredelaportedudonjondeterre"
+    },
+    {
+      "name": "Porteentredonojonterre",
+      "type": "block",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "porteentredonojonterre"
+    },
+    {
+      "name": "Porteentrerdonjonterrre",
+      "type": "procedure",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "porteentrerdonjonterrre",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Portebosstere",
+      "type": "procedure",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "portebosstere",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Serruredelaportedubossdeterre",
+      "type": "block",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "serruredelaportedubossdeterre"
+    },
+    {
+      "name": "Cadredelaportedubossdeterre",
+      "type": "block",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cadredelaportedubossdeterre"
+    },
+    {
+      "name": "Epee2",
+      "type": "tool",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "epee_2"
+    },
+    {
+      "name": "Epeedudebut",
+      "type": "tool",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "epeedudebut"
+    },
+    {
+      "name": "Epee_geant_qui_se_pete_la_gueule_contre_un_mur",
+      "type": "procedure",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "epee_geant_qui_se_pete_la_gueule_contre_un_mur",
+      "metadata": {
+        "dependencies": []
+      }
+    },
+    {
+      "name": "Epeedesgeant",
+      "type": "tool",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "epeedesgeant"
+    },
+    {
+      "name": "Epeegrandcasser",
+      "type": "procedure",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "epeegrandcasser",
+      "metadata": {
+        "dependencies": []
+      }
+    },
+    {
+      "name": "Jnkj",
+      "type": "procedure",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "jnkj",
+      "metadata": {
+        "dependencies": []
+      }
+    },
+    {
+      "name": "Epeedesgeantcasser",
+      "type": "tool",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "epeedesgeantcasser"
+    },
+    {
+      "name": "Repareepeegeantcasser",
+      "type": "recipe",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "repareepeegeantcasser"
+    },
+    {
+      "name": "Ref",
+      "type": "procedure",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ref",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "block.adventure_mod_.blockdonjon_1": "Block du donjon de terre bas",
+      "block.adventure_mod_.blockdonjon_13vine": "Block du donjon de terre haut",
+      "block.adventure_mod_.blockdonjon_13": "Block du donjon de terre haut",
+      "block.adventure_mod_.blockdonjon_12": "Block du donjon de terre centre",
+      "item.adventure_mod_.epee_2": "épée_du_héro",
+      "block.adventure_mod_.pillierdonjonterre": "Pillier du donjon de terre",
+      "block.adventure_mod_.serruredelaportedudonjondeterre": "Serrure de la porte du donjon de terre",
+      "block.adventure_mod_.escalierdonjon_1": "Escalier du donjon de terre",
+      "block.adventure_mod_.cadredelaportedubossdeterre": "cadre de la porte du boss de terre",
+      "block.adventure_mod_.porte_donjo_nhaut": "Porte DONJON haut",
+      "block.adventure_mod_.porte_donjo_nbas": "Porte DONJON bas",
+      "item.adventure_mod_.clefdeterre": "Clefdeterre",
+      "item.adventure_mod_.clef": "Clef",
+      "item.adventure_mod_.epeedesgeantcasser": "épée des géants casser",
+      "item.adventure_mod_.clefdebossdudonjondeterre": "Clef du boss du donjon de terre",
+      "advancements.d_1.title": "A l\u0027aventure !",
+      "block.adventure_mod_.serruredelaportedubossdeterre": "Serrure de la porte du boss deterre",
+      "block.adventure_mod_.porteentredonojonterre": "cadre de la porte d\u0027entrée du donojon de terre",
+      "item.adventure_mod_.epeedudebut": "Epeedudebut",
+      "block.adventure_mod_.soldonjon_1": "Sol du donjon de terre",
+      "advancements.d_1.descr": "Jouer avec le mod Adventure Mod",
+      "item.adventure_mod_.epeedesgeant": "épée des géants"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "adventure_mod_",
+    "modName": "Adventure Mod 1.15.2",
+    "version": "1.0.0",
+    "author": "petil, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.15.2",
+    "modElementsPackage": "net.mcreator.adventuremod",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000547520
+}

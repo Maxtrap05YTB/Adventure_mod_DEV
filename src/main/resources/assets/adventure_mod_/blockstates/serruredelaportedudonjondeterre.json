@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "adventure_mod_:block/serruredelaportedudonjondeterre"
+    },
+    "facing=east": {
+      "model": "adventure_mod_:block/serruredelaportedudonjondeterre",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "adventure_mod_:block/serruredelaportedudonjondeterre",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "adventure_mod_:block/serruredelaportedudonjondeterre",
+      "y": 270
+    }
+  }
+}

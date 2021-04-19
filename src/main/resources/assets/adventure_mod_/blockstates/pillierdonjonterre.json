@@ -1,0 +1,28 @@
+{
+  "variants": {
+    "facing=south": {
+      "model": "adventure_mod_:block/pillierdonjonterre"
+    },
+    "facing=north": {
+      "model": "adventure_mod_:block/pillierdonjonterre"
+    },
+    "facing=east": {
+      "model": "adventure_mod_:block/pillierdonjonterre",
+      "x": 90
+    },
+    "facing=west": {
+      "model": "adventure_mod_:block/pillierdonjonterre",
+      "x": 90
+    },
+    "facing=up": {
+      "model": "adventure_mod_:block/pillierdonjonterre",
+      "x": 90,
+      "y": 90
+    },
+    "facing=down": {
+      "model": "adventure_mod_:block/pillierdonjonterre",
+      "x": 90,
+      "y": 90
+    }
+  }
+}

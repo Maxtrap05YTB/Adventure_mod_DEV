@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "adventure_mod_:blocks/reeez2",
+    "up": "adventure_mod_:blocks/reeez2",
+    "north": "adventure_mod_:blocks/reeez",
+    "east": "adventure_mod_:blocks/reeez2",
+    "south": "adventure_mod_:blocks/reeez2",
+    "west": "adventure_mod_:blocks/reeez2",
+    "particle": "adventure_mod_:blocks/reeez2"
+  }
+}
